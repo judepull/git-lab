@@ -27,3 +27,25 @@ Author: Jude Pullen <jp695323@ohio.edu>
 Date:   Fri Sep 8 16:56:01 2023 -0400
 
     Initial commit
+
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10: The changes I made online did not show in my local copy
+
+Answer 11: 
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/judepull/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12: The changes I made online did reflect in my local copy.
+
+Answer 13: 
+.  ..  .git  .gitignore  README.md
